@@ -1,0 +1,68 @@
+[33mcommit 818feed760b79546f3763b6eecba2d50debb523d[m[33m ([m[1;36mHEAD -> [m[1;32mcambios-notebook[m[33m, [m[1;31morigin/cambios-notebook[m[33m)[m
+Merge: c5ba6f4 a99ee64
+Author: ngarce <35543750+ngarce@users.noreply.github.com>
+Date:   Sat Mar 2 19:08:45 2024 +0100
+
+    Merge pull request #1 from ngarce/some-changes
+    
+    Update README.md
+
+[33mcommit a99ee64a2e9653109138f1164e1810d55eca96d4[m
+Author: ngarce <35543750+ngarce@users.noreply.github.com>
+Date:   Sat Mar 2 19:07:57 2024 +0100
+
+    Update README.md
+
+[33mcommit c5ba6f41a4ac8b6115cec156007895611144d783[m
+Author: ngarce <35543750+ngarce@users.noreply.github.com>
+Date:   Sat Mar 2 19:01:23 2024 +0100
+
+    Rename report
+
+[33mcommit 2e02432281de65167891c923f7222c9335162f62[m
+Author: ngarce <35543750+ngarce@users.noreply.github.com>
+Date:   Sat Mar 2 18:58:37 2024 +0100
+
+    Rename notebook
+
+[33mcommit d46051d4820b398ea8ba51bb14cacc2b45e2e7e7[m
+Author: ngarce <35543750+ngarce@users.noreply.github.com>
+Date:   Sat Mar 2 18:57:55 2024 +0100
+
+    Change notebook name
+
+[33mcommit fe9dbbf96a237b3cfa2c557f586942589508db1f[m
+Author: ngarce <35543750+ngarce@users.noreply.github.com>
+Date:   Sat Mar 2 18:56:48 2024 +0100
+
+    Add files via upload
+
+[33mcommit 410aac355aa681a404fbad77f5d7da80be437821[m
+Author: ngarce <35543750+ngarce@users.noreply.github.com>
+Date:   Sat Mar 2 18:52:37 2024 +0100
+
+    Delete data/NBAdata.csv
+
+[33mcommit abf26a5f025d0ce19ada5a7212f3b078432bc77b[m
+Author: ngarce <35543750+ngarce@users.noreply.github.com>
+Date:   Sat Mar 2 18:49:40 2024 +0100
+
+    Rename NBAdata.csv to data/NBAdata.csv
+
+[33mcommit e819fa81e87737d77844d0c08d3efde3ab433b62[m
+Author: ngarce <35543750+ngarce@users.noreply.github.com>
+Date:   Sat Mar 2 18:48:09 2024 +0100
+
+    Create data folder
+
+[33mcommit 70def522f0f55185431b573bfbfbb7e76d7ae1d2[m[33m ([m[1;31morigin/main[m[33m, [m[1;32mmain[m[33m)[m
+Author: Nico <nico@nico.com>
+Date:   Sat Mar 2 18:40:08 2024 +0100
+
+    added files
+
+[33mcommit 2eb1a8eb60e0e1c449819caa72200f2269f82e5c[m
+Author: ngarce <35543750+ngarce@users.noreply.github.com>
+Date:   Sat Mar 2 18:25:33 2024 +0100
+
+    Initial commit
